@@ -1,4 +1,5 @@
-# Markdown and Git Homework. 
+# Markdown and Git Homework
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -6,5 +7,13 @@
 - [Usage](#usage)
 - [License](#license)
 
-
+## Introduction
 Practica para aprender [Git Documentation](https://git-scm.com/doc)
+
+## Features
+
+## Installation
+
+## Usage
+
+## License
