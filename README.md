@@ -10,6 +10,9 @@
 ## Introduction
 Practica para aprender [Git Documentation](https://git-scm.com/doc)
 
+Este proyecto sirve para practicar commits, ramas y merges.
+
+
 ![Project Logo](images/logo.png)
 
 ## Features
