@@ -10,6 +10,8 @@
 ## Introduction
 Practica para aprender [Git Documentation](https://git-scm.com/doc)
 
+![Project Logo](images/logo.png)
+
 ## Features
 
 ## Installation
