@@ -1,0 +1,124 @@
+commit 605ef34d070a95c2df56cf40803eaeddc9c3bce2
+Merge: 8e3247c 1823ded
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 18:53:01 2026 +0100
+
+    Merge pull request #2 from olekkhar/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 1823dedc8f444d269232c0d67393d5d8078b4c40
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 18:35:55 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 24 ++++++++++++++++++++++++
+ 1 file changed, 24 insertions(+)
+
+commit 8e3247c759af9c9965445e0da1d12c906e91f1eb
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 18:01:24 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 97 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 97 insertions(+)
+
+commit 4f8adc1f059d9a83ea65ee949d12e995416bd113
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:59:56 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit ae1393ca44047ab173015fd9c8ae8957dd54bb80
+Merge: 37c5103 2facdc1
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:53:00 2026 +0100
+
+    Merge add-license branch into main
+
+commit 2facdc114be84a810a77125376154433752e7a5e
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:51:25 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 37c5103be640db30b9147531f41058417e073cb6
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:44:25 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 010f6a7f9851240186709a4ba02fd35fd195983d
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:38:56 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit bf709513552a389517c9e090949c0fbb5275f642
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:28:54 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 35111 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 0e2b6fc3cd9517d23a0d163ce63dddbef1d256d2
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:17:49 2026 +0100
+
+    Add sections to README
+
+ README.md | 13 +++++++++++--
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+
+commit f75df5abdd06656a3830d8b091e41d2af88ef9ab
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:15:08 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9edd325e388e654a54fe222b3fc64c52e49eff02
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 17:08:30 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 904fcc78b9e2dc13db298410709c3f7264880f79
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 14:22:22 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit caf5690ec5ba6b77fa8fcc1a8fa4cd4f607e6635
+Author: olekkhar <olekkhar@iespoblenou.org>
+Date:   Fri Nov 20 14:12:42 2026 +0100
+
+    Primer commit
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
